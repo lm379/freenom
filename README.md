@@ -27,8 +27,6 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/mast
 
 [🍺  信仰](#--信仰)
 
-[❤  捐赠 Donate](#--捐赠-donate)
-
 [📋  捐赠名单 Donate List](#--捐赠名单-donate-list)
 
 [🌚  作者](#--作者)
